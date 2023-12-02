@@ -78,5 +78,5 @@ def get_sum_of_all_calibration_values(file_path: str) -> int:
 
 
 if __name__ == "__main__":
-    print(get_sum_of_integer_calibration_values(r"resorces/day_1_1_input.txt"))
-    print(get_sum_of_all_calibration_values(r"resorces/day_1_1_input.txt"))
+    print(get_sum_of_integer_calibration_values(r"resources/day_1_1_input.txt"))
+    print(get_sum_of_all_calibration_values(r"resources/day_1_1_input.txt"))
